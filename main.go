@@ -3,10 +3,10 @@ package main
 import (
     "fmt"
     // Rename the following math package to `m`
-    m "github.com/lifuzu/learn_golang/math"
-    "github.com/lifuzu/learn_golang/shape"
+    m "github.com/lifuzu/learn-golang/math"
+    "github.com/lifuzu/learn-golang/shape"
     // Call the methods without explicitly stating the package - NOT RECOMMENDED
-    . "github.com/lifuzu/learn_golang/person"
+    . "github.com/lifuzu/learn-golang/person"
 )
 
 var (

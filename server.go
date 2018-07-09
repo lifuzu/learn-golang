@@ -6,7 +6,7 @@ import (
     "github.com/labstack/echo"
     "github.com/labstack/echo/middleware"
 
-    "github.com/lifuzu/learn_golang/handlers"
+    "github.com/lifuzu/learn-golang/handlers"
 )
 
 func main() {
